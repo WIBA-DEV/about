@@ -1,7 +1,5 @@
-# Welcome to WIBA Developer
-
-### About Us
-Just a three decent developers with a good heart 👨‍💻
+# This site is currently under construction.
+We'll be back soon.
 
 ### Support or Contact
 
